@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color:  green;
+    height: 100px;
+    font-size: 72px;
+}
+.background{
+    background-color: aliceblue;
+}
+h3{
+    font-size: 36px;
+    color: darkgreen;
+    font-style: italic;
+}
+.text{
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients{
+    background-color: bisque;
+    height: max-content;
+}
